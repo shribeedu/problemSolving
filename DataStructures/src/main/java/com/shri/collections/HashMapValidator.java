@@ -9,7 +9,7 @@ public class HashMapValidator {
 		hashMap.put("one", "ValueOne");
 		hashMap.put("two", "ValueTwo");
 		
-		System.out.println("Vlaue from Hash map is"+hashMap.get("one"));
+		System.out.println("Vlaue from Hash map is: "+hashMap.get("one"));
 		
 	}
 

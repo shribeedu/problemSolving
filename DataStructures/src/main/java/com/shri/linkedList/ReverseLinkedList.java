@@ -1,6 +1,6 @@
 package com.shri.linkedList;
 
-public class ReverseLinkedListMain {
+public class ReverseLinkedList {
 
    public static  void main(String args []){
 
